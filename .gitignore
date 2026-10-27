@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Database
+db.sqlite3
+
+# Node / React
+node_modules/
+dist/
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Database backups
+*.json.bak
+backup_*.json
